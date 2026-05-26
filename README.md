@@ -142,6 +142,8 @@ Con este proyecto aprendí:
 ---
 
 # Autor
-Juan De Dios Piedrahita Gomez
-TELEMATICA
-Universidad Pontificia Bolivariana
+- Juan De Dios Piedrahita Gomez
+- TELEMATICA
+- Universidad Pontificia Bolivariana
+
+---
