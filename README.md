@@ -142,5 +142,6 @@ Con este proyecto aprendí:
 ---
 
 # Autor
-
-Proyecto académico realizado utilizando AWS, Docker y Terraform.
+Juan De Dios Piedrahita Gomez
+TELEMATICA
+Universidad Pontificia Bolivariana
